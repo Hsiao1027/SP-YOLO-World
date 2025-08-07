@@ -1,7 +1,7 @@
 # Efficient Low-Light Object Detection via Smart Prompting with YOLO-World
 
 > **ICASI 2025**  
-> Cheng-Yen Hsiao, Shyang Chang, Shao-Kang Miau
+> Ricky Christanto, Cheng-Yen Hsiao, Shaou-Gang Miaou
 
 ---
 
