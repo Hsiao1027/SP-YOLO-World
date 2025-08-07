@@ -45,7 +45,7 @@ The following figure shows the impact of Smart Prompting (SP) under challenging 
 ```bibtex
 @inproceedings{hsiao2025efficient,
   title={Efficient Low-Light Object Detection via Smart Prompting with YOLO-World},
-  author={Cheng-Yen Hsiao and Shyang Chang and Shao-Kang Miau},
+  author={Ricky Christanto, Cheng-Yen Hsiao, Shaou-Gang Miaou},
   booktitle={Proceedings of the 2025 International Conference on Advanced Smart Information (ICASI)},
   year={2025}
 }
