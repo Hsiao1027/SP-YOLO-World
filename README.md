@@ -40,7 +40,7 @@ The following figure shows the impact of Smart Prompting (SP) under challenging 
 
 - 💡 **Prompt-aware detection**: Integrates semantic guidance into the object detection pipeline.
 - ⚙️ **No retraining required**: Plug-and-play with existing YOLO-World weights.
-- ⚡ **Lightweight and generalizable**: Improves low-light detection on diverse datasets (ExDark, LLVIP, DARK FACE).
+- ⚡ **Lightweight and generalizable**: Improves low-light detection on diverse datasets (ExDark).
 
 ---
 
@@ -52,7 +52,7 @@ The following figure shows the impact of Smart Prompting (SP) under challenging 
 
 ---
 
-##  Citation
+##  Acknowledgement
 
 ```bibtex
 @inproceedings{Hsiao2025SPYOLOWorld,
