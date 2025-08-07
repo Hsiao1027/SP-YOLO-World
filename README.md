@@ -36,7 +36,7 @@ The following figure shows the impact of Smart Prompting (SP) under challenging 
 
 ---
 
-##  Highlights
+##  Contributions
 
 -  	We introduce Smart Prompting YOLO-World, a novel approach for low-light object detection that eliminates the need for image enhancement preprocessing.
 -  	We provide comprehensive experimental analysis on the ExDark dataset, showing that our approach achieves superior mAP (mean Average Precision) with substantially lower latency (inference time) than enhancement-based methods
