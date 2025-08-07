@@ -21,7 +21,7 @@ The following figure illustrates the overall pipeline of our proposed method, in
 
 ---
 
-##  Visual Comparison: w/o SP vs. w/ SP
+##  Visualization
 
 The following figure shows the impact of Smart Prompting (SP) under challenging low-light conditions:
 
