@@ -1,17 +1,17 @@
 # Efficient Low-Light Object Detection via Smart Prompting with YOLO-World
 
-> **ICASI 2025**  
+> **2025 IEEE 11th International Conference on Applied System Innovation (IEEE ICASI 2025), Tokyo, Japan, 22-25 April 2025**  
 > Ricky Christanto, Cheng-Yen Hsiao, Shaou-Gang Miaou
 
 ---
 
 ## Abstract
 
-Object detection in low-light environments is critical for surveillance, autonomous driving, and robotics applications, yet it remains challenging due to weak contrast and high noise levels. Traditional methods often rely on image enhancement techniques to address these issues, but such approaches come with high computational costs and increased latency. To overcome these limitations, we propose a novel method that leverages smart prompting (SP) within the YOLO-World framework, an open-vocabulary model designed to detect key object features without requiring image enhancement modules. By focusing on critical object hints, our approach reduces computational overhead while maintaining robust detection performance. Experimental evaluations on the ExDark dataset demonstrate that SP YOLO-World outperforms YOLOv8n with image enhancement regarding mean Average Precision (mAP) while achieving significantly lower latency. This balance between accuracy and efficiency makes SP YOLO-World well-suited for real-time object detection in challenging low-light scenarios. Our findings highlight the potential of smart prompting as a lightweight yet effective solution for improving object detection performance in resource-constrained environments.
+Object detection in low-light environments is critical for surveillance, autonomous driving, and robotics applications, yet it remains challenging due to weak contrast and high noise levels. Traditional methods often rely on image enhancement techniques to address these issues, but such approaches come with high computational costs and increased latency. To overcome these limitations, we propose a novel method that leverages Smart Prompting (SP) within the YOLO-World framework, an open-vocabulary model designed to detect key object features without requiring image enhancement modules. By focusing on critical object hints, our approach reduces computational overhead while maintaining robust detection performance. Experimental evaluations on the ExDark dataset demonstrate that SP YOLO-World outperforms YOLOv8n with image enhancement regarding mean Average Precision (mAP) while achieving significantly lower latency. This balance between accuracy and efficiency makes SP YOLO-World well-suited for real-time object detection in challenging low-light scenarios. Our findings highlight the potential of smart prompting as a lightweight yet effective solution for improving object detection performance in resource-constrained environments.
 
 ---
 
-## 📊 Visual Comparison: w/o SP vs. w/ SP
+##  Visual Comparison: w/o SP vs. w/ SP
 
 The following figure shows the impact of Smart Prompting (SP) under challenging low-light conditions.
 
@@ -24,7 +24,7 @@ The following figure shows the impact of Smart Prompting (SP) under challenging 
 
 ---
 
-## 📌 Highlights
+##  Highlights
 
 - 💡 **Prompt-aware detection**: Integrates semantic guidance into the object detection pipeline.
 - ⚙️ **No retraining required**: Plug-and-play with existing YOLO-World weights.
@@ -32,7 +32,7 @@ The following figure shows the impact of Smart Prompting (SP) under challenging 
 
 ---
 
-## 🔜 Coming Soon
+##  Coming Soon
 
 - 🔧 Code for Smart Prompting module
 - 🧪 Evaluation on public datasets
@@ -40,7 +40,7 @@ The following figure shows the impact of Smart Prompting (SP) under challenging 
 
 ---
 
-## 🔗 Citation
+##  Citation
 
 ```bibtex
 @inproceedings{hsiao2025efficient,
