@@ -16,7 +16,7 @@ Object detection in low-light environments is critical for surveillance, autonom
 The following figure illustrates the overall pipeline of our proposed method, integrating Smart Prompting into YOLO-World for efficient low-light object detection:
 
 <p align="center">
-  <img src="assets/architecture.png" width="900" alt="Architecture Diagram">
+  <img src="assets/architecture.png" width="800" alt="Architecture Diagram">
 </p>
 
 ---
