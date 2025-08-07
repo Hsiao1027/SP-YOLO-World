@@ -5,17 +5,9 @@
 
 ---
 
-## 🧠 Abstract
+## Abstract
 
-Low-light conditions pose significant challenges for object detection due to reduced visibility and low signal-to-noise ratios.  
-We propose an efficient and modular prompting strategy integrated into **YOLO-World** to enhance its robustness under illumination-degraded scenes.  
-By leveraging semantic priors and dynamically selected class prompts, our method:
-
-- enhances the model's attention to relevant regions,
-- improves both detection accuracy and inference efficiency,
-- and requires **no additional training or image enhancement pre-processing**.
-
-Our approach demonstrates superior performance across several low-light detection benchmarks, with minimal computational overhead.
+Object detection in low-light environments is critical for surveillance, autonomous driving, and robotics applications, yet it remains challenging due to weak contrast and high noise levels. Traditional methods often rely on image enhancement techniques to address these issues, but such approaches come with high computational costs and increased latency. To overcome these limitations, we propose a novel method that leverages smart prompting (SP) within the YOLO-World framework, an open-vocabulary model designed to detect key object features without requiring image enhancement modules. By focusing on critical object hints, our approach reduces computational overhead while maintaining robust detection performance. Experimental evaluations on the ExDark dataset demonstrate that SP YOLO-World outperforms YOLOv8n with image enhancement regarding mean Average Precision (mAP) while achieving significantly lower latency. This balance between accuracy and efficiency makes SP YOLO-World well-suited for real-time object detection in challenging low-light scenarios. Our findings highlight the potential of smart prompting as a lightweight yet effective solution for improving object detection performance in resource-constrained environments.
 
 ---
 
