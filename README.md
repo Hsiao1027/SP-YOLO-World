@@ -1,7 +1,7 @@
 # Efficient Low-Light Object Detection via Smart Prompting with YOLO-World
 
 > **2025 IEEE 11th International Conference on Applied System Innovation (IEEE ICASI 2025), Tokyo, Japan, 22–25 April 2025**  
-> Ricky Christanto, Cheng-Yen Hsiao, Shaou-Gang Miaou
+> *Ricky Christanto, Cheng-Yen Hsiao, Shaou-Gang Miaou*
 
 ---
 
